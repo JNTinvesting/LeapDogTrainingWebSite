@@ -1,0 +1,195 @@
+<manifest alg="2" build="8" opt="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3853613672"/>
+    <file name="master_ribbon-front.css" crc="347908188" ref="home"/>
+    <file name="master_ribbon-back.css" crc="3886223984" ref="gallery:appt-email-sent:email-sent:blog:news:contact-usdocs:trainers:services:appointments"/>
+    <file name="gallery.css" crc="425027988" ref="gallery"/>
+    <file name="home.css" crc="55947828" ref="home"/>
+    <file name="appt-email-sent.css" crc="186897915" ref="appt-email-sent"/>
+    <file name="email-sent.css" crc="4118787971" ref="email-sent"/>
+    <file name="blog.css" crc="35346188" ref="blog"/>
+    <file name="news.css" crc="4082470982" ref="news"/>
+    <file name="contact-usdocs.css" crc="133855338" ref="contact-usdocs"/>
+    <file name="trainers.css" crc="3854269479" ref="trainers"/>
+    <file name="services.css" crc="3818641193" ref="services"/>
+    <file name="appointments.css" crc="293400452" ref="appointments"/>
+    <file name="index.css" crc="4275491012" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="ldt-splash-animation">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="278316596" mt="1363139051000"/>
+        <file name="jquery-1.7.1.min.js" crc="111770969" mt="1363139051000"/>
+      </folder>
+      <folder name="images">
+        <file name="Bottom-Dog-Row.png" crc="3890337844" mt="1363139051000"/>
+        <file name="Middle-Dogs-Middle.png" crc="454727291" mt="1363139051000"/>
+        <file name="Middle-Logo.png" crc="3953456878" mt="1363139051000"/>
+        <file name="Middle-Side-Dogs.png" crc="166758234" mt="1363139051000"/>
+        <file name="Poster.png" crc="436841841" mt="1363139051000"/>
+        <file name="Top-Dog-Row.png" crc="3758195240" mt="1363139051000"/>
+      </folder>
+      <file name="Middle-Logo.png" crc="88222219" mt="1363139051000"/>
+      <file name="LDT Splash Animation_edge.js" crc="106880201" mt="1363139051000"/>
+      <file name="LDT Splash Animation_edgeActions.js" crc="134129443" mt="1363139051000"/>
+      <file name="LDT Splash Animation_edgePreload.js" crc="3827909264" mt="1363139051000"/>
+      <file name="LDT Splash Animation.html" crc="432855790" mt="1363139051000"/>
+    </folder>
+    <file name="obedience-evaluation.pdf" crc="4114065060" mt="1363159450000"/>
+    <file name="liability-and-waiver.pdf" crc="517016720" mt="1363156918000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="3859090011" ref="home:index:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="home:index:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent:tablet>index:tablet>home:tablet>trainers:tablet>services:tablet>contact-usdocs:tablet>email-sent:tablet>gallery:tablet>news:tablet>blog:tablet>appointments:tablet>appt-email-sent"/>
+    <file name="museutils.js" crc="4215913851" ref="home:index:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent:tablet>index:tablet>home:tablet>trainers:tablet>services:tablet>contact-usdocs:tablet>email-sent:tablet>gallery:tablet>news:tablet>blog:tablet>appointments:tablet>appt-email-sent"/>
+    <file name="pie.js" crc="3786417276" ref="home:index:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent:tablet>index:tablet>home:tablet>trainers:tablet>services:tablet>contact-usdocs:tablet>email-sent:tablet>gallery:tablet>news:tablet>blog:tablet>appointments:tablet>appt-email-sent"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4033321495" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="jquery.musemenu.js" crc="3888647712" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="jquery.tobrowserwidth.js" crc="4052033419" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="webpro.js" crc="4060715896" ref="home:services:trainers:contact-usdocs:gallery:appointments"/>
+    <file name="musewpslideshow.js" crc="44180946" ref="home:services:trainers:gallery"/>
+    <file name="jquery.museoverlay.js" crc="421226699" ref="home:services:trainers:gallery"/>
+    <file name="touchswipe.js" crc="261777990" ref="home:services:trainers:gallery"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="home:index:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent:tablet>index:tablet>home:tablet>trainers:tablet>services:tablet>contact-usdocs:tablet>email-sent:tablet>gallery:tablet>news:tablet>blog:tablet>appointments:tablet>appt-email-sent"/>
+    <file name="musewpdisclosure.js" crc="225766309" ref="services:trainers"/>
+  </folder>
+  <folder name="images">
+    <file name="header tile.png" crc="4099312281" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="pawprint-u6324-r-fr.png" crc="40835926" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="menu-buckle---services.png" crc="402057319" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="pawprint-u6271-r-fr.png" crc="40835926" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="menu buckle - trainers.png" crc="4233649315" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="pawprint-u6229-r-fr.png" crc="4252124560" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="grass-mound.jpg" crc="247980330" ref="home"/>
+    <file name="pawprint-u6334-r-fr.png" crc="4252124560" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="blank.gif" crc="4208392903" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="u6328_states.png" crc="4037963077" ref="home"/>
+    <file name="u6328_states-r.png" crc="306989417" ref="home"/>
+    <file name="u6328_states-a.png" crc="3930824615" ref="home"/>
+    <file name="blogger.png" crc="361416353" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="270076_486861554670022_1473173341_n159x237.jpg" crc="503926180" ref="home"/>
+    <file name="294441_450370241652487_844524220_n.jpg" crc="3994366669" ref="home"/>
+    <file name="405367_376949602327885_2028066933_n.jpg" crc="202268453" ref="home"/>
+    <file name="480159_376949435661235_1749962239_n.jpg" crc="4162223067" ref="home"/>
+    <file name="522261_376948962327949_961507890_n.jpg" crc="298014200" ref="home"/>
+    <file name="522609_418737444815767_458638230_n.jpg" crc="190142084" ref="home"/>
+    <file name="527895_376949642327881_1408246028_n.jpg" crc="4184027667" ref="home"/>
+    <file name="loading.gif" crc="3815509949" ref="home:gallery"/>
+    <file name="facebook.png" crc="3898369023" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="instangram.png" crc="4105146659" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="angus-character.png" crc="4180319074" ref="home"/>
+    <file name="pintrest.png" crc="4180697089" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="twitter.png" crc="484997642" ref="home:services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="u5130_states.png" crc="4037963077" ref="services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="u5130_states-r.png" crc="306989417" ref="services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="u5130_states-a.png" crc="3930824615" ref="services:trainers:news:contact-usdocs:gallery:blog:appointments:appt-email-sent:email-sent"/>
+    <file name="u5445-grad.png" crc="4048129494" ref="services"/>
+    <file name="u5445-r-grad.png" crc="305282734" ref="services"/>
+    <file name="openmouth-transparent-cropped.png" crc="3805001290" ref="services"/>
+    <file name="u5495-8.png" crc="4103802489" ref="services"/>
+    <file name="adk-photohraphy.jpg" crc="462540840" ref="services"/>
+    <file name="u5913_states.png" crc="193219051" ref="services"/>
+    <file name="u5913_states-r.png" crc="104987771" ref="services"/>
+    <file name="adk20120514-0169-web.jpg" crc="517405448" ref="trainers"/>
+    <file name="u3521.png" crc="93375265" ref="trainers"/>
+    <file name="u3521-a.png" crc="93375265" ref="trainers"/>
+    <file name="adk20121020-0491-web.jpg" crc="4032589378" ref="trainers"/>
+    <file name="u2643_states.png" crc="512720585" ref="trainers"/>
+    <file name="u2643_states-r.png" crc="272555417" ref="trainers"/>
+    <file name="u6200_states.png" crc="4093011404" ref="trainers"/>
+    <file name="u6200_states-r.png" crc="211672939" ref="trainers"/>
+    <file name="u6177_states.png" crc="172012229" ref="trainers"/>
+    <file name="u6177_states-r.png" crc="243088325" ref="trainers"/>
+    <file name="leaves.jpg" crc="4151273655" ref="trainers"/>
+    <file name="akc-evaluator-badge.gif" crc="479990568" ref="trainers"/>
+    <file name="stubby-dog-article.gif" crc="4002240338" ref="news"/>
+    <file name="u5907_states.png" crc="3795241322" ref="news"/>
+    <file name="u5907_states-r.png" crc="92129597" ref="news"/>
+    <file name="u3448-17.png" crc="4114673003" ref="contact-usdocs"/>
+    <file name="u3448-17-r.png" crc="3883593696" ref="contact-usdocs"/>
+    <file name="u3448-17-m.png" crc="3923747979" ref="contact-usdocs"/>
+    <file name="u3448-17-fs.png" crc="3862195594" ref="contact-usdocs"/>
+    <file name="u5919-grad.png" crc="162918259" ref="contact-usdocs:email-sent"/>
+    <file name="u5919-r-grad.png" crc="211125104" ref="contact-usdocs:email-sent"/>
+    <file name="u5919-a-grad.png" crc="11103777" ref="contact-usdocs:email-sent"/>
+    <file name="1.jpg" crc="4062536677" ref="gallery"/>
+    <file name="2.jpg" crc="40776159" ref="gallery"/>
+    <file name="3.jpg" crc="304895419" ref="gallery"/>
+    <file name="4.jpg" crc="3914608853" ref="gallery"/>
+    <file name="5.jpg" crc="443106825" ref="gallery"/>
+    <file name="6.jpg" crc="169198873" ref="gallery"/>
+    <file name="7.jpg" crc="267019341" ref="gallery"/>
+    <file name="8.jpg" crc="507863922" ref="gallery"/>
+    <file name="9.jpg" crc="4101960525" ref="gallery"/>
+    <file name="10.jpg" crc="495071675" ref="gallery"/>
+    <file name="11.jpg" crc="4133614601" ref="gallery"/>
+    <file name="12.jpg" crc="383289947" ref="gallery"/>
+    <file name="13.jpg" crc="54679488" ref="gallery"/>
+    <file name="14.jpg" crc="296109168" ref="gallery"/>
+    <file name="15.jpg" crc="4064009474" ref="gallery"/>
+    <file name="16.jpg" crc="10606473" ref="gallery"/>
+    <file name="17.jpg" crc="153249146" ref="gallery"/>
+    <file name="18.jpg" crc="216029171" ref="gallery"/>
+    <file name="19.jpg" crc="312287737" ref="gallery"/>
+    <file name="130x31.jpg" crc="4052929075" ref="gallery"/>
+    <file name="230x31.jpg" crc="3958279128" ref="gallery"/>
+    <file name="330x31.jpg" crc="122294475" ref="gallery"/>
+    <file name="430x31.jpg" crc="30725250" ref="gallery"/>
+    <file name="530x31.jpg" crc="4979782" ref="gallery"/>
+    <file name="630x31.jpg" crc="4165273660" ref="gallery"/>
+    <file name="730x31.jpg" crc="181915528" ref="gallery"/>
+    <file name="830x31.jpg" crc="109867244" ref="gallery"/>
+    <file name="930x31.jpg" crc="4175285667" ref="gallery"/>
+    <file name="1030x31.jpg" crc="289936514" ref="gallery"/>
+    <file name="1130x31.jpg" crc="3979015016" ref="gallery"/>
+    <file name="1230x31.jpg" crc="216782271" ref="gallery"/>
+    <file name="1330x31.jpg" crc="92212212" ref="gallery"/>
+    <file name="1430x31.jpg" crc="4094371500" ref="gallery"/>
+    <file name="1530x31.jpg" crc="4200130421" ref="gallery"/>
+    <file name="1630x31.jpg" crc="383794724" ref="gallery"/>
+    <file name="1730x31.jpg" crc="4149824468" ref="gallery"/>
+    <file name="1830x31.jpg" crc="325466326" ref="gallery"/>
+    <file name="1930x31.jpg" crc="287023391" ref="gallery"/>
+    <file name="u5983-17.png" crc="4114673003" ref="appointments"/>
+    <file name="u5983-17-r.png" crc="3883593696" ref="appointments"/>
+    <file name="u5983-17-m.png" crc="3923747979" ref="appointments"/>
+    <file name="u5983-17-fs.png" crc="3862195594" ref="appointments"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="email-sent.css" crc="125012906" ref="tablet>email-sent"/>
+      <file name="index.css" crc="334370382" ref="tablet>index"/>
+      <file name="blog.css" crc="125012906" ref="tablet>blog"/>
+      <file name="appointments.css" crc="125012906" ref="tablet>appointments"/>
+      <file name="news.css" crc="125012906" ref="tablet>news"/>
+      <file name="services.css" crc="125012906" ref="tablet>services"/>
+      <file name="trainers.css" crc="125012906" ref="tablet>trainers"/>
+      <file name="home.css" crc="125012906" ref="tablet>home"/>
+      <file name="gallery.css" crc="125012906" ref="tablet>gallery"/>
+      <file name="appt-email-sent.css" crc="125012906" ref="tablet>appt-email-sent"/>
+      <file name="contact-usdocs.css" crc="125012906" ref="tablet>contact-usdocs"/>
+    </folder>
+    <file name="index.html" crc="463635315" mt="1363399511657"/>
+    <file name="home.html" crc="378514150" mt="1363399511867"/>
+    <file name="trainers.html" crc="252406487" mt="1363399512053"/>
+    <file name="services.html" crc="459761015" mt="1363399512202"/>
+    <file name="contact-usdocs.html" crc="3884544331" mt="1363399512345"/>
+    <file name="email-sent.html" crc="283130695" mt="1363399512510"/>
+    <file name="gallery.html" crc="4004069337" mt="1363399512669"/>
+    <file name="news.html" crc="4172928150" mt="1363399512841"/>
+    <file name="blog.html" crc="54598945" mt="1363399513058"/>
+    <file name="appointments.html" crc="4290099577" mt="1363399513184"/>
+    <file name="appt-email-sent.html" crc="3959881605" mt="1363399513364"/>
+  </folder>
+  <file name="home.html" crc="4135879062" mt="1363399511835"/>
+  <file name="index.html" crc="3811582072" mt="1363399511637"/>
+  <file name="services.html" crc="3856459973" mt="1363399512185"/>
+  <file name="trainers.html" crc="237938686" mt="1363400267889"/>
+  <file name="news.html" crc="4103271856" mt="1363400267896"/>
+  <file name="contact-usdocs.html" crc="4104465980" mt="1363400267901"/>
+  <file name="gallery.html" crc="4215658426" mt="1363400267906"/>
+  <file name="blog.html" crc="59796059" mt="1363400267913"/>
+  <file name="appointments.html" crc="273330765" mt="1363400267924"/>
+  <file name="appt-email-sent.html" crc="496289548" mt="1363400267930"/>
+  <file name="email-sent.html" crc="236737780" mt="1363400267942"/>
+</manifest>
